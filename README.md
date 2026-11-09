@@ -42,3 +42,4 @@ docker run --rm -e LLM_BASE_URL -e LLM_API_KEY -v $TASKS:/data/tasks:rw --read-o
 
 ## Авторы
 Команда JiuwenGuard - openJiuwen Challenge 2026
+# jiuwenguard
